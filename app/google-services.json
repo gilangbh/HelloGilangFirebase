@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "588835210854",
+    "firebase_url": "https://hellogilangfirebase.firebaseio.com",
+    "project_id": "hellogilangfirebase",
+    "storage_bucket": "hellogilangfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588835210854:android:ae7634f37fad7e50",
+        "android_client_info": {
+          "package_name": "id.bhagaskara.hellogilangfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588835210854-2ofm1ud70s865c3vuhcahndvf4d2u1h0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "id.bhagaskara.hellogilangfirebase",
+            "certificate_hash": "B55B218DD53ADE5704D1D8A60E59C996104968C4"
+          }
+        },
+        {
+          "client_id": "588835210854-gto06ois3c7dseoprsu3fgbbc6vbi4ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOa-COvnQ7H7ZDKy3bHcp3AyyemCxBKKU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588835210854-gto06ois3c7dseoprsu3fgbbc6vbi4ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
